@@ -7,13 +7,11 @@ You will need:
 
 **Note:** You will need to attach resistors to the three shorter legs of the RGB LED. The longer leg is for **ground** and doesn't require a resistor.
 
-### Look at your RGB LED
-
-Your RGB LED has four legs. Turn your RGB LED so that the longer **GND** leg is second from the left. Notice how the legs go **R** for **red**, then **GND**, then **G** for **green** and finally **B** for **blue**. This will help you remember what each leg is doing. 
+**Look:** Your RGB LED has four legs. Turn your RGB LED so that the longer **GND** leg is second from the left. Notice how the legs go **R** for **red**, then **GND**, then **G** for **green** and finally **B** for **blue**. This will help you remember what each leg is doing. 
 
 ![An illustration of an RGB LED.](images/rgb-led-legs.png)
 
-To wire the RGB LED:
+**Connect:** Wire your RGB LED
 
 + Attach the **R** leg to **GP1**
 + Attach the **GND** to the **GND** pin

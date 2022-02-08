@@ -5,9 +5,9 @@ You will need:
 + 3 x resistors
 + 8 x socket-socket jumper wires
 
-**Note:** You will need to attach resistors to the three shorter legs of the RGB LED. The longer leg is for **Ground** and doesn't require a resistor.
+**Note:** You will need to attach resistors to the three shorter legs of the RGB LED. The longer leg is for **ground** and doesn't require a resistor.
 
-## Look at your RGB LED
+### Look at your RGB LED
 
 Your RGB LED has four legs. Turn your RGB LED so that the longer **GND** leg is second from the left. Notice how the legs go **R** for **red**, then **GND**, then **G** for **green** and finally **B** for **blue**. This will help you remember what each leg is doing. 
 

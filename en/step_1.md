@@ -1,7 +1,7 @@
 You will need:
 
 + A Raspberry Pi Pico
-+ An RGB LED
++ A common cathode RGB LED
 + 3 x resistors
 + 8 x socket-socket jumper wires
 

@@ -1,10 +1,10 @@
-title: Wire an RGB LED
+title: Bedraad een RGB-LED
 hero_image: images/banner.png
-description: How to wire an RGB LED to your Raspberry Pi Pico
+description: Hoe kun je een RGB LED op je Raspberry Pi Pico aansluiten
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-08"
 steps:
   - 
-    title: Wire an RGB LED
+    title: Bedraad een RGB-LED

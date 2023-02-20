@@ -1,3 +1,4 @@
+---
 title: Bedraad een RGB-LED
 hero_image: images/banner.png
 description: Hoe kun je een RGB LED op je Raspberry Pi Pico aansluiten
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-08"
 steps:
-  - 
-    title: Bedraad een RGB-LED
+  - title: Bedraad een RGB-LED

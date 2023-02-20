@@ -1,21 +1,21 @@
-You will need:
+Je hebt nodig:
 
-+ A Raspberry Pi Pico
-+ A common cathode RGB LED
-+ 3 x resistors
-+ 8 x socket-socket jumper wires
++ Een Raspberry Pi Pico
++ RGB-led met gemeenschappelijke kathode
++ 3 x weerstand
++ 8 x bus-bus verbindingsdraden
 
-**Note:** You will need to attach resistors to the three shorter legs of the RGB LED. The longer leg is for **ground** and doesn't require a resistor.
+**Opmerking:** Je moet de weerstanden aan de drie kortere benen van de RGB LED verbinden. Het langere been is voor **aarde** en daar hoef je geen weerstand op aan te sluiten.
 
-**Look:** Your RGB LED has four legs. Turn your RGB LED so that the longer **GND** leg is second from the left. Notice how the legs go **R** for **red**, then **GND**, then **G** for **green** and finally **B** for **blue**. This will help you remember what each leg is doing.
+**Kijk:** Je RGB LED heeft vier benen. Draai je RGB LED zodat het langere **GND** been de tweede van links is. Zie hoe de benen eruit zien **R** voor **rood**, dan **GND**, dan **G** voor **groen** en tenslotte **B** voor **blauw**. Dit helpt je om je te herinneren wat elk been doet.
 
-![An illustration of an RGB LED.](images/rgb-led-legs.png)
+![Een illustratie van een RGB LED.](images/rgb-led-legs.png)
 
-**Connect:** Wire your RGB LED
+**Aansluiten:** bedraad je RGB-led
 
-+ Attach the **R** leg to **GP1**
-+ Attach the **GND** to the **GND** pin
-+ Attach the **G** leg to the **GP2** pin
-+ Attach the **B** leg to the **GP3** pin
++ Bevestig de **R** been aan **GP1**
++ Bevestig de **GND** aan de **GND** pin
++ Bevestig het **G** been aan de **GP2** pin
++ Bevestig het **B** been aan de **GP3** pin
 
-![A diagram of a Raspberry Pi Pico attached to an RGB LED.](images/rgb-led-diagram.png)
+![Een diagram van een Raspberry Pi Pico gekoppeld aan een RGB LED.](images/rgb-led-diagram.png)
